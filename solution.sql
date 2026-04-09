@@ -1,4 +1,4 @@
-PlatinumRx Assignment – Vijay Kumar
+PlatinumRx Assignment â€“ Vijay Kumar
 
 Section A: SQL (Hotel Management)
 Q1: SELECT user_id, room_no
